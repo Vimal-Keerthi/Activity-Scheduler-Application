@@ -7,7 +7,7 @@ progress.
 
 USAGE :
 	add 2 hello world - # Add a new item priority 2 and text "hello world" to the list
-    ls - # Show incomplete priority list items sorted by priority in ascending order
+        ls - # Show incomplete priority list items sorted by priority in ascending order
 	del NUMBER - # Delete the incomplete item with the given priority number
 	done NUMBER - # Mark the incomplete item with the given priority number as complete
 	help - # Show usage
