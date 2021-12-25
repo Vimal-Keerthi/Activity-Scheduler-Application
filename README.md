@@ -5,7 +5,14 @@ This Activity Scheduler is a simple application used to keep track of our day to
 It is a command-line application which helps the user to record the activities and keep track of his 
 progress.
 
-
+USAGE :
+	add 2 hello world - # Add a new item priority 2 and text "hello world" to the list
+    ls - # Show incomplete priority list items sorted by priority in ascending order
+	del NUMBER - # Delete the incomplete item with the given priority number
+	done NUMBER - # Mark the incomplete item with the given priority number as complete
+	help - # Show usage
+	report - # Statistics
+	exit - # Exit from the application
 
 
 This program consists of the following routines :
